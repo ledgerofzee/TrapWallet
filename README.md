@@ -1,3 +1,3 @@
 # TrapWallet
 
-A regulated cyrptocurrency wallet that supports ERC20 tokens.
+A regulated cryptocurrency wallet that supports ERC20 tokens.
